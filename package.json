@@ -1,6 +1,6 @@
 {
   "name": "sysfs-gpio",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "GPIO control through sysfs GPIO userland interface",
   "main": "lib/gpio.js",
   "repository": "aldehir/sysfs-gpio",
